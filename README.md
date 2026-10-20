@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.jpeg" alt="Muhammad Danial Haqimi Kamaruddin" width="180" style="border-radius: 50%;">
+  <img src="profile.jpeg.PNG" alt="Muhammad Danial Haqimi Kamaruddin" width="180" style="border-radius: 50%;">
 </p>
 
 # Saya Muhammad Danial Haqimi! 👋
