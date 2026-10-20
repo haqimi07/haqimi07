@@ -20,7 +20,7 @@ Selamat datang ke profil GitHub saya! Saya kini dalam proses mempelajari dunia p
 ---
 
 ### 📬 Hubungi Saya
-- **Emel:** [emel-anda@example.com](mailto: danialhaqimi45@gmail.com)
+- **Emel:** [danialhaqimi45@gmail.com](mailto: danialhaqimi45@gmail.com)
 
 ---
 
