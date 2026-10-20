@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile.jpg" alt="Muhammad Danial Haqimi Kamaruddin" width="180" style="border-radius: 50%;">
+</p>
+
 # Saya Muhammad Danial Haqimi! 👋
 
 Selamat datang ke profil GitHub saya! Saya kini dalam proses mempelajari dunia pembangunan perisian dan open-source.
