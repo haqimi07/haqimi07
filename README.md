@@ -20,8 +20,7 @@ Selamat datang ke profil GitHub saya! Saya kini dalam proses mempelajari dunia p
 ---
 
 ### 📬 Hubungi Saya
-- **LinkedIn:** [Pautan LinkedIn Anda](https://linkedin.com/in/nama-anda)
-- **Emel:** [emel-anda@example.com](mailto:emel-anda@example.com)
+- **Emel:** [emel-anda@example.com](mailto: danialhaqimi45@gmail.com)
 
 ---
 
