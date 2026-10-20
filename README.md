@@ -1,4 +1,4 @@
-# Hi there, saya Muhammad Danial Haqimi! 👋
+# Saya Muhammad Danial Haqimi! 👋
 
 Selamat datang ke profil GitHub saya! Saya kini dalam proses mempelajari dunia pembangunan perisian dan open-source.
 
